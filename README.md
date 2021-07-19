@@ -1,1 +1,1 @@
-https://github-MVjimbo.github.io/rsschool-cv/cv
+https://MVjimbo.github.io/rsschool-cv/cv
